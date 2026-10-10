@@ -10,7 +10,7 @@ Following features are supported :
 - Search
 - CRUD operations (add, edit, delete)
 - Multi-selection (checkboxes)
-- Master-details
+- Master-detailsv
 - Themes
 - And more ...
 
